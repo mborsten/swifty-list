@@ -8,6 +8,7 @@ This is a list of libraries I use in different projects.
 - [Date & time](#date-&-time)
 - [Camera](#camera)
 - [Database](#database)
+- [Security](#security)
 - [Audio](#audio)
 
 - [Gists](#gists)
@@ -32,6 +33,9 @@ This is a list of libraries I use in different projects.
 
 ## Database
 * [Realm](https://github.com/IFTTT/FastttCamera) - Realm is a modern data framework & database for iOS, macOS, tvOS & watchOS.
+
+## Security
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - A simple Swift wrapper for Keychain that works on iOS and OS X.
 
 ## Audio
 * [EZAudio](https://github.com/syedhali/EZAudio) - A simple, intuitive audio framework for iOS and OSX useful for anyone doing audio processing and/or audio-based visualizations. (Deprecated in favor of AudioKit)
