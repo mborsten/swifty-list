@@ -10,6 +10,8 @@ This is a list of libraries I use in different projects.
 - [Database](#database)
 - [Audio](#audio)
 
+- [Gists](#gists)
+
 ***
 ## Networking
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Alamofire is an HTTP networking library written in Swift.
