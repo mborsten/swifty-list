@@ -44,3 +44,4 @@ This is a list of libraries I use in different projects.
 ## Gists
 
 * [instanceFromXib](https://gist.github.com/mborsten/d87564de26c954a42c98a61660f334dd) - Create an instance from the viewController from the xib file
+* [addMotionEffect](https://gist.github.com/mborsten/b207fa9c748d8919ad6bc55f37f7ad3e) - Adds a motion effect to a given view
