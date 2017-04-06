@@ -53,3 +53,4 @@ This is a list of libraries I use in different projects.
 
 * [Fastlane](https://fastlane.tools) - A collection of tools to speed up development (iOS & Android)
 * [Jazzy](https://github.com/realm/jazzy) - A command-line utility that generates documentation for Swift or Objective-C
+* [git-flow](https://github.com/nvie/gitflow) - A collection of Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
