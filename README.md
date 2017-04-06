@@ -52,3 +52,4 @@ This is a list of libraries I use in different projects.
 ## Tools
 
 * [Fastlane](https://fastlane.tools) - A collection of tools to speed up development (iOS & Android)
+* [Jazzy](https://github.com/realm/jazzy) - A command-line utility that generates documentation for Swift or Objective-C
