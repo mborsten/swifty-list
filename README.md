@@ -27,6 +27,7 @@ This is a list of libraries I use in different projects.
 * [SnapKit](https://github.com/SnapKit/SnapKit) - SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
+* [AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 
 ## Date & time
 * [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling in Swift
