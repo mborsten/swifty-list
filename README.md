@@ -51,6 +51,7 @@ This is a list of libraries I use in different projects.
 * [instanceFromXib](https://gist.github.com/mborsten/d87564de26c954a42c98a61660f334dd) - Create an instance from the viewController from the xib file
 * [addMotionEffect](https://gist.github.com/mborsten/b207fa9c748d8919ad6bc55f37f7ad3e) - Adds a motion effect to a given view
 * [tableViewScrollToBottom](https://gist.github.com/mborsten/5e281da49a657348fc3244f195b42c00) - Function to scroll the tableview to the bottom of the list
+* [firstLaunch](https://gist.github.com/mborsten/3927d203551d943393a53f3adc569055) - UserDefaults extension to detect first launch
 
 ***
 ## Tools
